@@ -1,0 +1,14 @@
+{
+    "john" : {
+        "name" : "John Doe",
+        "age" : 29,
+        "id" : 100},
+    "jane" : {
+        "name" : "Jane Doe",
+        "age" : 24,
+        "id" : 101},
+    "jim" : {
+        "name" : "Jim Doe",
+        "age" : 26,
+        "id" : 102}
+}
