@@ -3,17 +3,23 @@
       {
         "id": 1,
         "name": "John Doe",
-        "age": 29
+        "age": 29,
+        "hobby": "programming",
+        "password": "jd001"
       },
       {
         "id": 2,
-        "name": "Jane Doe",
-        "age": 24
+        "name": "Mary Jane ",
+        "age": 24,
+        "hobby": "gaming",
+        "password": "mj002"
       },
       {
         "id": 3,
-        "name": "Jim Doe",
-        "age": 26
+        "name": "Peter Parker",
+        "age": 22,
+        "hobby": "reading",
+        "password": "pp003"
       }
     ]
   }
